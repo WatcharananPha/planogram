@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+Pillow
+matplotlib
+scipy
+scikit-image
+imutils
+cognitive-service-vision-model-customization-python-samples
