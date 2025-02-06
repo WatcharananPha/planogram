@@ -1,168 +1,1377 @@
 {
-    "planogram": {
-        "width": 319,
-        "height": 600,
-        "products": [
-            {
-                "id": "product_1",
-                "name": "EISEN BAHN",
-                "w": 50,
-                "h": 100,
-                "x": 5,
-                "y": 10
-            },
-            {
-                "id": "product_2",
-                "name": "Estrella Galicia",
-                "w": 180,
-                "h": 80,
-                "x": 65,
-                "y": 15
-            },
-            {
-                "id": "product_3",
-                "name": "Red Bull",
-                "w": 60,
-                "h": 90,
-                "x": 245,
-                "y": 15
-            },
-            {
-                "id": "product_4",
-                "name": "DANONE",
-                "w": 50,
-                "h": 80,
-                "x": 280,
-                "y": 15
-            },
-            {
-                "id": "product_5",
-                "name": "Guarana",
-                "w": 45,
-                "h": 90,
-                "x": 5,
-                "y": 105
-            },
-            {
-                "id": "product_6",
-                "name": "Pepsi",
-                "w": 60,
-                "h": 110,
-                "x": 50,
-                "y": 105
-            },
-            {
-                "id": "product_7",
-                "name": "Coca-Cola",
-                "w": 120,
-                "h": 120,
-                "x": 120,
-                "y": 105
-            },
-            {
-                "id": "product_8",
-                "name": "Coca-Cola",
-                "w": 90,
-                "h": 110,
-                "x": 240,
-                "y": 105
-            },
-            {
-                "id": "product_9",
-                "name": "Fanta",
-                "w": 115,
-                "h": 75,
-                "x": 5,
-                "y": 215
-            },
-            {
-                "id": "product_10",
-                "name": "Pepsi",
-                "w": 55,
-                "h": 75,
-                "x": 120,
-                "y": 215
-            },
-            {
-                "id": "product_11",
-                "name": "Coca-Cola",
-                "w": 125,
-                "h": 75,
-                "x": 175,
-                "y": 215
-            },
-            {
-                "id": "product_12",
-                "name": "RIO",
-                "w": 55,
-                "h": 75,
-                "x": 5,
-                "y": 295
-            },
-            {
-                "id": "product_13",
-                "name": "RIO",
-                "w": 55,
-                "h": 75,
-                "x": 60,
-                "y": 295
-            },
-            {
-                "id": "product_14",
-                "name": "KuAT",
-                "w": 55,
-                "h": 75,
-                "x": 115,
-                "y": 295
-            },
-            {
-                "id": "product_15",
-                "name": "Sprite",
-                "w": 55,
-                "h": 75,
-                "x": 170,
-                "y": 295
-            },
-            {
-                "id": "product_16",
-                "name": "H2OH!",
-                "w": 45,
-                "h": 100,
-                "x": 225,
-                "y": 295
-            },
-            {
-                "id": "product_17",
-                "name": "Slinky",
-                "w": 70,
-                "h": 150,
-                "x": 5,
-                "y": 445
-            },
-            {
-                "id": "product_18",
-                "name": "Guara Vito",
-                "w": 70,
-                "h": 150,
-                "x": 80,
-                "y": 445
-            },
-            {
-                "id": "product_19",
-                "name": "Mate",
-                "w": 70,
-                "h": 150,
-                "x": 155,
-                "y": 445
-            },
-            {
-                "id": "product_20",
-                "name": "Biri",
-                "w": 70,
-                "h": 150,
-                "x": 225,
-                "y": 445
-            }
-        ]
+  "imageMetadata": {
+    "width": 3865,
+    "height": 2949
+  },
+  "products": [
+    {
+      "id": "1",
+      "boundingBox": {
+        "x": 258,
+        "y": 652,
+        "w": 329,
+        "h": 591
+      },
+      "classifications": [
+        {
+          "confidence": 0.94952404,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "boundingBox": {
+        "x": 1877,
+        "y": 664,
+        "w": 311,
+        "h": 586
+      },
+      "classifications": [
+        {
+          "confidence": 0.93926007,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "boundingBox": {
+        "x": 3725,
+        "y": 32,
+        "w": 138,
+        "h": 332
+      },
+      "classifications": [
+        {
+          "confidence": 0.9350636,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "boundingBox": {
+        "x": 1557,
+        "y": 664,
+        "w": 312,
+        "h": 585
+      },
+      "classifications": [
+        {
+          "confidence": 0.9337809,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "boundingBox": {
+        "x": 1202,
+        "y": 1904,
+        "w": 303,
+        "h": 796
+      },
+      "classifications": [
+        {
+          "confidence": 0.9290068,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "boundingBox": {
+        "x": 3601,
+        "y": 24,
+        "w": 143,
+        "h": 335
+      },
+      "classifications": [
+        {
+          "confidence": 0.9263772,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "boundingBox": {
+        "x": 918,
+        "y": 663,
+        "w": 314,
+        "h": 585
+      },
+      "classifications": [
+        {
+          "confidence": 0.9261549,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "boundingBox": {
+        "x": 28,
+        "y": 17,
+        "w": 149,
+        "h": 335
+      },
+      "classifications": [
+        {
+          "confidence": 0.925999,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "boundingBox": {
+        "x": 585,
+        "y": 655,
+        "w": 328,
+        "h": 592
+      },
+      "classifications": [
+        {
+          "confidence": 0.92583406,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "boundingBox": {
+        "x": 3465,
+        "y": 21,
+        "w": 151,
+        "h": 337
+      },
+      "classifications": [
+        {
+          "confidence": 0.9235655,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "boundingBox": {
+        "x": 160,
+        "y": 15,
+        "w": 141,
+        "h": 340
+      },
+      "classifications": [
+        {
+          "confidence": 0.92307794,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "boundingBox": {
+        "x": 2416,
+        "y": 21,
+        "w": 127,
+        "h": 341
+      },
+      "classifications": [
+        {
+          "confidence": 0.922671,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "boundingBox": {
+        "x": 1504,
+        "y": 1899,
+        "w": 288,
+        "h": 791
+      },
+      "classifications": [
+        {
+          "confidence": 0.9208109,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "boundingBox": {
+        "x": 2543,
+        "y": 16,
+        "w": 132,
+        "h": 347
+      },
+      "classifications": [
+        {
+          "confidence": 0.91867495,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "boundingBox": {
+        "x": 2286,
+        "y": 14,
+        "w": 132,
+        "h": 350
+      },
+      "classifications": [
+        {
+          "confidence": 0.9179526,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "boundingBox": {
+        "x": 2149,
+        "y": 7,
+        "w": 136,
+        "h": 356
+      },
+      "classifications": [
+        {
+          "confidence": 0.9178278,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "boundingBox": {
+        "x": 2691,
+        "y": 1901,
+        "w": 301,
+        "h": 805
+      },
+      "classifications": [
+        {
+          "confidence": 0.9163507,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "boundingBox": {
+        "x": 289,
+        "y": 15,
+        "w": 138,
+        "h": 340
+      },
+      "classifications": [
+        {
+          "confidence": 0.9109507,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "boundingBox": {
+        "x": 898,
+        "y": 1914,
+        "w": 299,
+        "h": 784
+      },
+      "classifications": [
+        {
+          "confidence": 0.90558267,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "boundingBox": {
+        "x": 2403,
+        "y": 1905,
+        "w": 289,
+        "h": 794
+      },
+      "classifications": [
+        {
+          "confidence": 0.90269834,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "boundingBox": {
+        "x": 423,
+        "y": 15,
+        "w": 139,
+        "h": 338
+      },
+      "classifications": [
+        {
+          "confidence": 0.89607716,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "boundingBox": {
+        "x": 1493,
+        "y": 26,
+        "w": 132,
+        "h": 333
+      },
+      "classifications": [
+        {
+          "confidence": 0.8954585,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "boundingBox": {
+        "x": 591,
+        "y": 1917,
+        "w": 302,
+        "h": 780
+      },
+      "classifications": [
+        {
+          "confidence": 0.8901891,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "boundingBox": {
+        "x": 2817,
+        "y": 666,
+        "w": 332,
+        "h": 586
+      },
+      "classifications": [
+        {
+          "confidence": 0.8807819,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "boundingBox": {
+        "x": 1361,
+        "y": 14,
+        "w": 133,
+        "h": 348
+      },
+      "classifications": [
+        {
+          "confidence": 0.87491596,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "boundingBox": {
+        "x": 278,
+        "y": 1910,
+        "w": 320,
+        "h": 789
+      },
+      "classifications": [
+        {
+          "confidence": 0.8715716,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "boundingBox": {
+        "x": 1758,
+        "y": 11,
+        "w": 121,
+        "h": 244
+      },
+      "classifications": [
+        {
+          "confidence": 0.85611475,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "boundingBox": {
+        "x": 2099,
+        "y": 1915,
+        "w": 299,
+        "h": 781
+      },
+      "classifications": [
+        {
+          "confidence": 0.85351366,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "boundingBox": {
+        "x": 2803,
+        "y": 12,
+        "w": 135,
+        "h": 240
+      },
+      "classifications": [
+        {
+          "confidence": 0.8174014,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "boundingBox": {
+        "x": 1887,
+        "y": 10,
+        "w": 123,
+        "h": 238
+      },
+      "classifications": [
+        {
+          "confidence": 0.80476946,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "boundingBox": {
+        "x": 3204,
+        "y": 9,
+        "w": 132,
+        "h": 240
+      },
+      "classifications": [
+        {
+          "confidence": 0.79665,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "boundingBox": {
+        "x": 2015,
+        "y": 7,
+        "w": 130,
+        "h": 246
+      },
+      "classifications": [
+        {
+          "confidence": 0.79485697,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "boundingBox": {
+        "x": 2992,
+        "y": 1903,
+        "w": 303,
+        "h": 804
+      },
+      "classifications": [
+        {
+          "confidence": 0.79214245,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "boundingBox": {
+        "x": 1803,
+        "y": 1897,
+        "w": 296,
+        "h": 776
+      },
+      "classifications": [
+        {
+          "confidence": 0.77989686,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "boundingBox": {
+        "x": 3289,
+        "y": 1901,
+        "w": 310,
+        "h": 774
+      },
+      "classifications": [
+        {
+          "confidence": 0.77497023,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "boundingBox": {
+        "x": 0,
+        "y": 1912,
+        "w": 275,
+        "h": 778
+      },
+      "classifications": [
+        {
+          "confidence": 0.7719128,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "boundingBox": {
+        "x": 1625,
+        "y": 14,
+        "w": 128,
+        "h": 242
+      },
+      "classifications": [
+        {
+          "confidence": 0.74693674,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "boundingBox": {
+        "x": 3334,
+        "y": 9,
+        "w": 135,
+        "h": 233
+      },
+      "classifications": [
+        {
+          "confidence": 0.74446565,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "boundingBox": {
+        "x": 3597,
+        "y": 1906,
+        "w": 267,
+        "h": 688
+      },
+      "classifications": [
+        {
+          "confidence": 0.7370274,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "boundingBox": {
+        "x": 697,
+        "y": 19,
+        "w": 129,
+        "h": 233
+      },
+      "classifications": [
+        {
+          "confidence": 0.7266731,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "boundingBox": {
+        "x": 2677,
+        "y": 9,
+        "w": 129,
+        "h": 259
+      },
+      "classifications": [
+        {
+          "confidence": 0.71788436,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "boundingBox": {
+        "x": 3470,
+        "y": 655,
+        "w": 326,
+        "h": 596
+      },
+      "classifications": [
+        {
+          "confidence": 0.71252203,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "boundingBox": {
+        "x": 3151,
+        "y": 662,
+        "w": 328,
+        "h": 240
+      },
+      "classifications": [
+        {
+          "confidence": 0.7045891,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "boundingBox": {
+        "x": 3053,
+        "y": 4,
+        "w": 155,
+        "h": 268
+      },
+      "classifications": [
+        {
+          "confidence": 0.70312846,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "boundingBox": {
+        "x": 2941,
+        "y": 4,
+        "w": 133,
+        "h": 247
+      },
+      "classifications": [
+        {
+          "confidence": 0.69488955,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "boundingBox": {
+        "x": 568,
+        "y": 22,
+        "w": 129,
+        "h": 232
+      },
+      "classifications": [
+        {
+          "confidence": 0.6584192,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "boundingBox": {
+        "x": 1111,
+        "y": 7,
+        "w": 130,
+        "h": 222
+      },
+      "classifications": [
+        {
+          "confidence": 0.6307939,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "boundingBox": {
+        "x": 1241,
+        "y": 62,
+        "w": 121,
+        "h": 189
+      },
+      "classifications": [
+        {
+          "confidence": 0.54934657,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "boundingBox": {
+        "x": 811,
+        "y": 13,
+        "w": 128,
+        "h": 322
+      },
+      "classifications": [
+        {
+          "confidence": 0.5345814,
+          "label": "product"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "boundingBox": {
+        "x": 939,
+        "y": 13,
+        "w": 128,
+        "h": 322
+      },
+      "classifications": [
+        {
+          "confidence": 0.5345814,
+          "label": "product"
+        }
+      ]
     }
+  ],
+  "gaps": [
+    {
+      "id": "27",
+      "boundingBox": {
+        "x": 2204,
+        "y": 638,
+        "w": 621,
+        "h": 625
+      },
+      "classifications": [
+        {
+          "confidence": 0.86050785,
+          "label": "gap"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "boundingBox": {
+        "x": 1350,
+        "y": 640,
+        "w": 204,
+        "h": 623
+      },
+      "classifications": [
+        {
+          "confidence": 0.7072975,
+          "label": "gap"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "boundingBox": {
+        "x": 0,
+        "y": 511,
+        "w": 245,
+        "h": 739
+      },
+      "classifications": [
+        {
+          "confidence": 0.68812364,
+          "label": "gap"
+        }
+      ]
+    }
+  ]
+}
+2. Try planogram matching
+Planogram matching feature is only available for custom-trained models, and not available for pre-trained models. This is because pre-trained model only detects “products” vs. “gaps”, and does not have any custom-labeled products to be detected.
+If you would like to try planogram matching, try it with the sample images and sample planogram schemas we provide below with our already trained custom models on these sample images. When you select a sample image from below, you will be able to see a sample planogram schema in JSON that has been used to assess the planogram matching, as well as the planogram matching results.
+
+For this demo experience, we are currently only allowing planogram matching try out experience for the provided sample images ONLY. This is due to the highly variable types of planogram schema. However, for our actual service, you can bring in your own planogram schema and use it to run planogram matching with your custom model product understanding results.
+Choose the sample data you would like to try planogram matching on:
+Picture of a shelf with boxes of crackers
+Picture of a shelf with jars of food on it
+Picture of a shelves with bags of chips
+Picture of a shelf with cans of soda and drinks
+
+Note: The brands shown in the images are not affiliated with Microsoft and do not indicate any form of endorsement of Microsoft or Microsoft products by the brand owners, or an endorsement of the brand owners or their products by Microsoft.Have questions about these sample images?
+Sample image 4
+{
+  "Positions": [
+    {
+      "Id": "0001",
+      "ProductId": "0001",
+      "FixtureId": "0001",
+      "X": 0.1,
+      "Y": 0.1
+    },
+    {
+      "Id": "0002",
+      "ProductId": "0001",
+      "FixtureId": "0001",
+      "X": 1.3,
+      "Y": 0.1
+    },
+    {
+      "Id": "0003",
+      "ProductId": "0001",
+      "FixtureId": "0001",
+      "X": 2.5,
+      "Y": 0.1
+    },
+    {
+      "Id": "0004",
+      "ProductId": "0001",
+      "FixtureId": "0001",
+      "X": 3.7,
+      "Y": 0.1
+    },
+    {
+      "Id": "0005",
+      "ProductId": "0002",
+      "FixtureId": "0001",
+      "X": 4.9,
+      "Y": 0.1
+    },
+    {
+      "Id": "0006",
+      "ProductId": "0002",
+      "FixtureId": "0001",
+      "X": 6.1,
+      "Y": 0.1
+    },
+    {
+      "Id": "0007",
+      "ProductId": "0002",
+      "FixtureId": "0001",
+      "X": 7.3,
+      "Y": 0.1
+    },
+    {
+      "Id": "0008",
+      "ProductId": "0002",
+      "FixtureId": "0001",
+      "X": 8.5,
+      "Y": 0.1
+    },
+    {
+      "Id": "0009",
+      "ProductId": "0003",
+      "FixtureId": "0001",
+      "X": 9.7,
+      "Y": 0.1
+    },
+    {
+      "Id": "0010",
+      "ProductId": "0003",
+      "FixtureId": "0001",
+      "X": 10.9,
+      "Y": 0.1
+    },
+    {
+      "Id": "0011",
+      "ProductId": "0003",
+      "FixtureId": "0001",
+      "X": 12.1,
+      "Y": 0.1
+    },
+    {
+      "Id": "0012",
+      "ProductId": "0003",
+      "FixtureId": "0001",
+      "X": 13.3,
+      "Y": 0.1
+    },
+    {
+      "Id": "0013",
+      "ProductId": "0004",
+      "FixtureId": "0001",
+      "X": 14.5,
+      "Y": 0.1
+    },
+    {
+      "Id": "0014",
+      "ProductId": "0004",
+      "FixtureId": "0001",
+      "X": 15.7,
+      "Y": 0.1
+    },
+    {
+      "Id": "0015",
+      "ProductId": "0004",
+      "FixtureId": "0001",
+      "X": 16.9,
+      "Y": 0.1
+    },
+    {
+      "Id": "0016",
+      "ProductId": "0004",
+      "FixtureId": "0001",
+      "X": 18.1,
+      "Y": 0.1
+    },
+    {
+      "Id": "0017",
+      "ProductId": "0005",
+      "FixtureId": "0001",
+      "X": 19.3,
+      "Y": 0.1
+    },
+    {
+      "Id": "0018",
+      "ProductId": "0005",
+      "FixtureId": "0001",
+      "X": 20.5,
+      "Y": 0.1
+    },
+    {
+      "Id": "0019",
+      "ProductId": "0005",
+      "FixtureId": "0001",
+      "X": 21.7,
+      "Y": 0.1
+    },
+    {
+      "Id": "0020",
+      "ProductId": "0005",
+      "FixtureId": "0001",
+      "X": 22.9,
+      "Y": 0.1
+    },
+    {
+      "Id": "0021",
+      "ProductId": "0006",
+      "FixtureId": "0001",
+      "X": 24.1,
+      "Y": 0.1
+    },
+    {
+      "Id": "0022",
+      "ProductId": "0006",
+      "FixtureId": "0001",
+      "X": 25.3,
+      "Y": 0.1
+    },
+    {
+      "Id": "0023",
+      "ProductId": "0006",
+      "FixtureId": "0001",
+      "X": 26.5,
+      "Y": 0.1
+    },
+    {
+      "Id": "0024",
+      "ProductId": "0006",
+      "FixtureId": "0001",
+      "X": 27.7,
+      "Y": 0.1
+    },
+    {
+      "Id": "0025",
+      "ProductId": "0006",
+      "FixtureId": "0001",
+      "X": 28.9,
+      "Y": 0.1
+    },
+    {
+      "Id": "0026",
+      "ProductId": "0006",
+      "FixtureId": "0001",
+      "X": 30.1,
+      "Y": 0.1
+    },
+    {
+      "Id": "0027",
+      "ProductId": "0007",
+      "FixtureId": "0001",
+      "X": 31.3,
+      "Y": 0.1
+    },
+    {
+      "Id": "0028",
+      "ProductId": "0007",
+      "FixtureId": "0001",
+      "X": 32.5,
+      "Y": 0.1
+    },
+    {
+      "Id": "0029",
+      "ProductId": "0007",
+      "FixtureId": "0001",
+      "X": 33.7,
+      "Y": 0.1
+    },
+    {
+      "Id": "0030",
+      "ProductId": "0008",
+      "FixtureId": "0002",
+      "X": 0,
+      "Y": 5
+    },
+    {
+      "Id": "0031",
+      "ProductId": "0008",
+      "FixtureId": "0002",
+      "X": 2.95,
+      "Y": 5
+    },
+    {
+      "Id": "0032",
+      "ProductId": "0008",
+      "FixtureId": "0002",
+      "X": 5.9,
+      "Y": 5
+    },
+    {
+      "Id": "0033",
+      "ProductId": "0009",
+      "FixtureId": "0002",
+      "X": 8.85,
+      "Y": 5
+    },
+    {
+      "Id": "0034",
+      "ProductId": "0009",
+      "FixtureId": "0002",
+      "X": 11.8,
+      "Y": 5
+    },
+    {
+      "Id": "0035",
+      "ProductId": "0010",
+      "FixtureId": "0002",
+      "X": 14.75,
+      "Y": 5
+    },
+    {
+      "Id": "0036",
+      "ProductId": "0010",
+      "FixtureId": "0002",
+      "X": 17.7,
+      "Y": 5
+    },
+    {
+      "Id": "0037",
+      "ProductId": "0011",
+      "FixtureId": "0002",
+      "X": 20.65,
+      "Y": 5
+    },
+    {
+      "Id": "0038",
+      "ProductId": "0011",
+      "FixtureId": "0002",
+      "X": 23.6,
+      "Y": 5
+    },
+    {
+      "Id": "0039",
+      "ProductId": "0012",
+      "FixtureId": "0002",
+      "X": 26.55,
+      "Y": 5
+    },
+    {
+      "Id": "0040",
+      "ProductId": "0013",
+      "FixtureId": "0002",
+      "X": 29.5,
+      "Y": 5
+    },
+    {
+      "Id": "0041",
+      "ProductId": "0013",
+      "FixtureId": "0002",
+      "X": 32.45,
+      "Y": 5
+    },
+    {
+      "Id": "0042",
+      "ProductId": "0014",
+      "FixtureId": "0003",
+      "X": 0,
+      "Y": 14
+    },
+    {
+      "Id": "0043",
+      "ProductId": "0015",
+      "FixtureId": "0003",
+      "X": 2.7,
+      "Y": 14
+    },
+    {
+      "Id": "0044",
+      "ProductId": "0016",
+      "FixtureId": "0003",
+      "X": 5.4,
+      "Y": 14
+    },
+    {
+      "Id": "0045",
+      "ProductId": "0017",
+      "FixtureId": "0003",
+      "X": 8.1,
+      "Y": 14
+    },
+    {
+      "Id": "0046",
+      "ProductId": "0018",
+      "FixtureId": "0003",
+      "X": 10.8,
+      "Y": 14
+    },
+    {
+      "Id": "0047",
+      "ProductId": "0019",
+      "FixtureId": "0003",
+      "X": 13.5,
+      "Y": 14
+    },
+    {
+      "Id": "0048",
+      "ProductId": "0020",
+      "FixtureId": "0003",
+      "X": 16.2,
+      "Y": 14
+    },
+    {
+      "Id": "0049",
+      "ProductId": "0021",
+      "FixtureId": "0003",
+      "X": 18.9,
+      "Y": 14
+    },
+    {
+      "Id": "0050",
+      "ProductId": "0022",
+      "FixtureId": "0003",
+      "X": 21.6,
+      "Y": 14
+    },
+    {
+      "Id": "0051",
+      "ProductId": "0023",
+      "FixtureId": "0003",
+      "X": 24.3,
+      "Y": 14
+    },
+    {
+      "Id": "0052",
+      "ProductId": "0024",
+      "FixtureId": "0003",
+      "X": 27,
+      "Y": 14
+    },
+    {
+      "Id": "0053",
+      "ProductId": "0025",
+      "FixtureId": "0003",
+      "X": 29.7,
+      "Y": 14
+    },
+    {
+      "Id": "0054",
+      "ProductId": "0025",
+      "FixtureId": "0003",
+      "X": 32.4,
+      "Y": 14
+    }
+  ],
+  "Fixtures": [
+    {
+      "Id": "0001",
+      "H": 2,
+      "W": 35.5,
+      "X": 0,
+      "Y": 2.6
+    },
+    {
+      "Id": "0002",
+      "H": 2,
+      "W": 35.5,
+      "X": 0,
+      "Y": 9.9
+    },
+    {
+      "Id": "0003",
+      "H": 2,
+      "W": 35.5,
+      "X": 0,
+      "Y": 21
+    }
+  ],
+  "Products": [
+    {
+      "Id": "0001",
+      "Name": "A",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0002",
+      "Name": "B",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0003",
+      "Name": "C",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0004",
+      "Name": "D",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0005",
+      "Name": "E",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0006",
+      "Name": "F",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0007",
+      "Name": "G",
+      "W": 1.2,
+      "H": 2.5
+    },
+    {
+      "Id": "0008",
+      "Name": "H",
+      "W": 2.75,
+      "H": 4.9
+    },
+    {
+      "Id": "0009",
+      "Name": "I",
+      "W": 2.75,
+      "H": 4.9
+    },
+    {
+      "Id": "0010",
+      "Name": "J",
+      "W": 2.75,
+      "H": 4.9
+    },
+    {
+      "Id": "0011",
+      "Name": "K",
+      "W": 2.75,
+      "H": 4.9
+    },
+    {
+      "Id": "0012",
+      "Name": "L",
+      "W": 2.75,
+      "H": 4.9
+    },
+    {
+      "Id": "0013",
+      "Name": "M",
+      "W": 2.75,
+      "H": 4.9
+    },
+    {
+      "Id": "0014",
+      "Name": "N",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0015",
+      "Name": "O",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0016",
+      "Name": "P",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0017",
+      "Name": "Q",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0018",
+      "Name": "R",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0019",
+      "Name": "S",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0020",
+      "Name": "T",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0021",
+      "Name": "U",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0022",
+      "Name": "V",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0023",
+      "Name": "W",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0024",
+      "Name": "X",
+      "W": 2.4,
+      "H": 7
+    },
+    {
+      "Id": "0025",
+      "Name": "Y",
+      "W": 2.4,
+      "H": 7
+    }
+  ],
+  "Width": 35.5,
+  "Height": 23
 }
